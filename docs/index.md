@@ -15,3 +15,8 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+
+## GitHub Pages Deploy
+
+[git-gh-deploy](https://gist.github.com/chrisjacob/833223)
