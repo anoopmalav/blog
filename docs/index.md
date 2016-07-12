@@ -19,4 +19,4 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
 
 ## GitHub Pages Deploy
 
-[git-gh-deploy](https://gist.github.com/chrisjacob/833223)
+[git-gh-deploy](https://gist.github.com/cobyism/4730490)
